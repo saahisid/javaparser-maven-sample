@@ -1,4 +1,4 @@
-JavaParser and Maven sample
+##JavaParser and Maven sample
 ---
 
 This fully working sample Maven project parses and generates code with [JavaParser](http://www.javaparser.org).
